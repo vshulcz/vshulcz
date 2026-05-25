@@ -1,30 +1,11 @@
 # Vlad Shulcz
 
-Backend engineer focused on Python/Go services, Kubernetes, distributed systems,
-and small production-grade open-source tools.
+Backend engineer working with Python, Go, and infrastructure-heavy systems.
 
-Currently building around:
+I care about small, understandable tools; explicit architecture; reliable CI;
+and code that is easy to run, test, and maintain. Most of my work is around
+service backends, developer tooling, Kubernetes, observability, and distributed
+systems experiments.
 
-- backend architecture and developer tooling;
-- Kubernetes autoscaling, observability, and infrastructure automation;
-- practical Python/Go projects with tests, CI, docs, and releases.
-
-## Featured work
-
-- [Injex](https://github.com/vshulcz/injex) — tiny zero-dependency DI container
-  for Python with scopes, factories, overrides, and graph validation.
-- [MPC Autoscaler](https://github.com/vshulcz/mpc-autoscaler) — research and
-  implementation project for predictive Kubernetes autoscaling.
-- [Golectra](https://github.com/vshulcz/Golectra) — tiny self-hosted metrics
-  stack in Go.
-- [Marketplace Price Tracker](https://github.com/vshulcz/marketplace_price_tracker)
-  — Telegram bot for marketplace price monitoring.
-
-## Stack
-
-Python · Go · PostgreSQL · Redis · Docker · Kubernetes · Kafka · Linux
-
-## Contact
-
-- Email: [vshulcz@gmail.com](mailto:vshulcz@gmail.com)
-- Telegram: [@vshulcz](https://t.me/vshulcz)
+I use this GitHub as a public engineering portfolio: polished projects are
+pinned, older experiments stay available when they may still be useful.
