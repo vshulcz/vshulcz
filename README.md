@@ -1,11 +1,12 @@
 # Vlad Shulcz
 
-Backend engineer building small, reliable systems with Python, Go, and Kubernetes.
+I build backend and infrastructure tools that are small enough to understand,
+but solid enough to run.
 
-I like code that is explicit, tested, and easy to operate.
+Mostly working with Python, Go, Kubernetes, and service architecture.
 
-Currently interested in:
+Current focus:
 
-- developer tooling and clean backend architecture;
-- observability, autoscaling, and infrastructure automation;
-- practical open-source projects that solve narrow problems well.
+- developer tooling with clean, explicit APIs;
+- observability and autoscaling for infrastructure-heavy systems;
+- open-source projects with tests, docs, CI, and releases.
